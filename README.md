@@ -137,11 +137,12 @@ python evaluate.py
 
 ---
 
-##  References
+## References
 
-1. Shen et al. (2017) — *Deep learning with coherent nanophotonic circuits* — Nature Photonics
-2. Wan et al. (2021) — *Large-scale photonic integrated circuit based optical neural network* — Laser & Photonics Reviews
-3. Hughes et al. (2018) — *Training of photonic neural networks through in situ backpropagation*
+* **Shen et al. (2017)** — *Deep learning with coherent nanophotonic circuits* — Nature Photonics. (Foundational MZI architecture).
+* **Wan, Y. et al. (2026)** — *Integrated quantum dot lasers for parallelized photonic edge computing* — Advanced Photonics. (Hardware validation for parallelized ONN inference).
+* **Hughes et al. (2018)** — *Training of photonic neural networks through in situ backpropagation* — Optica. (Mathematical basis for physical training).
+* **Wan et al. (2021)** — *Large-scale photonic integrated circuit based optical neural network* — Laser & Photonics Reviews.
 
 ---
 
